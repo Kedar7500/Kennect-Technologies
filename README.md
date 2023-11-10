@@ -1,0 +1,2 @@
+# Kennect-Technologies
+Assessment coding
